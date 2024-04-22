@@ -102,11 +102,12 @@ background-position: 0 0,13px 13px;
                        .error{
                         background-color: red;
                         border-radius: 5px;
+                        text-align: center;
                        }
-                       /* .correcto{
+                       .correcto{
                         background-color: rgb(34, 109, 34);
                         border-radius: 5px;
                         text-align: center;
-                       } */
+                       }
                      
                     
